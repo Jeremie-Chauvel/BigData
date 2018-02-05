@@ -1,1 +1,6 @@
 This directory is for Lab 1.
+
+The program uses sci-kit libraries and is written in Python 2.7.
+
+The output of the program is 2 files (one .csv and one .xlsx) displaying the results of the analysis of the test database.
+1 colomn for the comments and 1 column for the prediction.
